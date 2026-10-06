@@ -1,0 +1,2147 @@
+{
+ "ARXIV:quant-ph/9605043": {
+  "paperId": "298d799da82395a64a3bda38ef9d2a4646828ccb",
+  "externalIds": {
+   "ArXiv": "quant-ph/9605043",
+   "MAG": "2952684570",
+   "DBLP": "conf/stoc/Grover96",
+   "DOI": "10.1145/237814.237866",
+   "CorpusId": 207198067
+  },
+  "url": "https://www.semanticscholar.org/paper/298d799da82395a64a3bda38ef9d2a4646828ccb",
+  "title": "A fast quantum mechanical algorithm for database search",
+  "venue": "Symposium on the Theory of Computing",
+  "year": 1996,
+  "citationCount": 10430,
+  "openAccessPdf": {
+   "url": "https://dl.acm.org/doi/pdf/10.1145/237814.237866",
+   "status": "BRONZE",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Grover1996AFQ,\n author = {Lov K. Grover},\n booktitle = {Symposium on the Theory of Computing},\n pages = {212-219},\n title = {A fast quantum mechanical algorithm for database search},\n year = {1996}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1728234",
+    "name": "Lov K. Grover"
+   }
+  ]
+ },
+ "ARXIV:quant-ph/9701001": {
+  "paperId": "76ba917d0b172593b20bbb1acefc64a6fb0682f5",
+  "externalIds": {
+   "DBLP": "journals/siamcomp/BennettBBV97",
+   "ArXiv": "quant-ph/9701001",
+   "MAG": "2601248643",
+   "DOI": "10.1137/S0097539796300933",
+   "CorpusId": 13403194
+  },
+  "url": "https://www.semanticscholar.org/paper/76ba917d0b172593b20bbb1acefc64a6fb0682f5",
+  "title": "Strengths and Weaknesses of Quantum Computing",
+  "venue": "SIAM journal on computing (Print)",
+  "year": 1997,
+  "citationCount": 1562,
+  "openAccessPdf": {
+   "url": "https://arxiv.org/pdf/quant-ph/9701001",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Bennett1997StrengthsAW,\n author = {Charles H. Bennett and Ethan S. Bernstein and G. Brassard and U. Vazirani},\n booktitle = {SIAM journal on computing (Print)},\n journal = {SIAM J. Comput.},\n pages = {1510-1523},\n title = {Strengths and Weaknesses of Quantum Computing},\n volume = {26},\n year = {1997}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2623914",
+    "name": "Charles H. Bennett"
+   },
+   {
+    "authorId": "48863272",
+    "name": "Ethan S. Bernstein"
+   },
+   {
+    "authorId": "1771605",
+    "name": "G. Brassard"
+   },
+   {
+    "authorId": "46753437",
+    "name": "U. Vazirani"
+   }
+  ]
+ },
+ "ARXIV:quant-ph/9605034": {
+  "paperId": "efe07cc0c976ddcb4ae95a56b48104e50d1137e7",
+  "externalIds": {
+   "ArXiv": "quant-ph/9605034",
+   "MAG": "2020918964",
+   "DOI": "10.1002/(SICI)1521-3978(199806)46:4/5<493::AID-PROP493>3.0.CO;2-P",
+   "CorpusId": 10032711
+  },
+  "url": "https://www.semanticscholar.org/paper/efe07cc0c976ddcb4ae95a56b48104e50d1137e7",
+  "title": "Tight bounds on quantum searching",
+  "venue": "",
+  "year": 1996,
+  "citationCount": 1422,
+  "openAccessPdf": {
+   "url": "https://arxiv.org/pdf/quant-ph/9605034",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Boyer1996TightBO,\n author = {Michel Boyer and G. Brassard and Peter F. Hoyer and Alain Tapp},\n journal = {Protein Science},\n pages = {493-505},\n title = {Tight bounds on quantum searching},\n volume = {46},\n year = {1996}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "46683413",
+    "name": "Michel Boyer"
+   },
+   {
+    "authorId": "1771605",
+    "name": "G. Brassard"
+   },
+   {
+    "authorId": "2467336202",
+    "name": "Peter F. Hoyer"
+   },
+   {
+    "authorId": "1909393",
+    "name": "Alain Tapp"
+   }
+  ]
+ },
+ "ARXIV:quant-ph/9711070": {
+  "paperId": "f0132e6c7c7608d25d32c833ff233225cab5cc5e",
+  "externalIds": {
+   "MAG": "2126338609",
+   "ArXiv": "quant-ph/9711070",
+   "DOI": "10.1103/PhysRevA.60.2746",
+   "CorpusId": 1542077
+  },
+  "url": "https://www.semanticscholar.org/paper/f0132e6c7c7608d25d32c833ff233225cab5cc5e",
+  "title": "GROVER'S QUANTUM SEARCHING ALGORITHM IS OPTIMAL",
+  "venue": "",
+  "year": 1997,
+  "citationCount": 628,
+  "openAccessPdf": {
+   "url": "https://arxiv.org/pdf/quant-ph/9711070",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Zalka1997GROVERSQS,\n author = {Christof Zalka},\n journal = {Physical Review A},\n pages = {2746-2751},\n title = {GROVER'S QUANTUM SEARCHING ALGORITHM IS OPTIMAL},\n volume = {60},\n year = {1997}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2027296",
+    "name": "Christof Zalka"
+   }
+  ]
+ },
+ "ARXIV:quant-ph/0005055": {
+  "paperId": "1184bdeb5ee727f9ba3aa70b1ffd5c225e521760",
+  "externalIds": {
+   "MAG": "2121981260",
+   "ArXiv": "quant-ph/0005055",
+   "DOI": "10.1090/conm/305/05215",
+   "CorpusId": 54753
+  },
+  "url": "https://www.semanticscholar.org/paper/1184bdeb5ee727f9ba3aa70b1ffd5c225e521760",
+  "title": "Quantum Amplitude Amplification and Estimation",
+  "venue": "",
+  "year": 2000,
+  "citationCount": 2167,
+  "openAccessPdf": {
+   "url": "https://arxiv.org/pdf/quant-ph/0005055",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Brassard2000QuantumAA,\n author = {G. Brassard and Peter H\u00f8yer and M. Mosca and Alain Tapp},\n journal = {arXiv: Quantum Physics},\n title = {Quantum Amplitude Amplification and Estimation},\n year = {2000}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1771605",
+    "name": "G. Brassard"
+   },
+   {
+    "authorId": "47231509",
+    "name": "Peter H\u00f8yer"
+   },
+   {
+    "authorId": "26985859",
+    "name": "M. Mosca"
+   },
+   {
+    "authorId": "1909393",
+    "name": "Alain Tapp"
+   }
+  ]
+ },
+ "ARXIV:0908.3066": {
+  "paperId": "7df33a28b4e7b557461dbcebed3fa7e722e679f1",
+  "externalIds": {
+   "MAG": "1645247980",
+   "ArXiv": "0908.3066",
+   "DBLP": "conf/tqc/Montanaro10",
+   "DOI": "10.1007/978-3-642-18073-6_7",
+   "CorpusId": 15326760
+  },
+  "url": "https://www.semanticscholar.org/paper/7df33a28b4e7b557461dbcebed3fa7e722e679f1",
+  "title": "Quantum Search with Advice",
+  "venue": "Theory of Quantum Computation, Communication, and Cryptography",
+  "year": 2009,
+  "citationCount": 28,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Montanaro2009QuantumSW,\n author = {Ashley Montanaro},\n booktitle = {Theory of Quantum Computation, Communication, and Cryptography},\n pages = {77-93},\n title = {Quantum Search with Advice},\n year = {2009}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2900973",
+    "name": "Ashley Montanaro"
+   }
+  ]
+ },
+ "ARXIV:2009.08721": {
+  "paperId": "4d76f7e84d2dc664a705503205cfa39be0338d70",
+  "externalIds": {
+   "MAG": "3087574760",
+   "DBLP": "journals/corr/abs-2009-08721",
+   "ArXiv": "2009.08721",
+   "DOI": "10.1007/s11432-023-3972-y",
+   "CorpusId": 221802690
+  },
+  "url": "https://www.semanticscholar.org/paper/4d76f7e84d2dc664a705503205cfa39be0338d70",
+  "title": "Quantum search with prior knowledge",
+  "venue": "Science China Information Sciences",
+  "year": 2020,
+  "citationCount": 3,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{He2020QuantumSW,\n author = {Xiaoyu He and Jialin Zhang and Xiaoming Sun},\n booktitle = {Science China Information Sciences},\n journal = {Science China Information Sciences},\n title = {Quantum search with prior knowledge},\n volume = {67},\n year = {2020}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "144068309",
+    "name": "Xiaoyu He"
+   },
+   {
+    "authorId": "49050656",
+    "name": "Jialin Zhang"
+   },
+   {
+    "authorId": "9433084",
+    "name": "Xiaoming Sun"
+   }
+  ]
+ },
+ "ARXIV:2509.06549": {
+  "paperId": "71acf24e3493cddfee735451eeea56eadc23e108",
+  "externalIds": {
+   "ArXiv": "2509.06549",
+   "DBLP": "conf/eurocrypt/BashiriGMN26",
+   "DOI": "10.48550/arXiv.2509.06549",
+   "CorpusId": 280028227
+  },
+  "url": "https://www.semanticscholar.org/paper/71acf24e3493cddfee735451eeea56eadc23e108",
+  "title": "Super-Quadratic Quantum Speed-ups and Guessing Many Likely Keys",
+  "venue": "International Conference on the Theory and Application of Cryptographic Techniques",
+  "year": 2025,
+  "citationCount": 1,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Bashiri2025SuperQuadraticQS,\n author = {K. Bashiri and Timo Glaser and Alexander May and Julian Nowakowski},\n booktitle = {International Conference on the Theory and Application of Cryptographic Techniques},\n journal = {ArXiv},\n title = {Super-Quadratic Quantum Speed-ups and Guessing Many Likely Keys},\n volume = {abs/2509.06549},\n year = {2025}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "102520326",
+    "name": "K. Bashiri"
+   },
+   {
+    "authorId": "2291173506",
+    "name": "Timo Glaser"
+   },
+   {
+    "authorId": "2257404031",
+    "name": "Alexander May"
+   },
+   {
+    "authorId": "2122314582",
+    "name": "Julian Nowakowski"
+   }
+  ]
+ },
+ "ARXIV:2609.28226": {
+  "paperId": "96f37d546a5d297dd2903f22722c91dbf7e9172f",
+  "externalIds": {
+   "ArXiv": "2609.28226",
+   "CorpusId": 292268022
+  },
+  "url": "https://www.semanticscholar.org/paper/96f37d546a5d297dd2903f22722c91dbf7e9172f",
+  "title": "Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice",
+  "venue": "",
+  "year": 2026,
+  "citationCount": 0,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Inproceedings{Schubert2026PinpointingSQ,\n author = {Carsten Schubert and Niklas Paskarbeit and Maximilian J. Kramer and Jean-Pierre Seifert and Marian Margraf},\n title = {Pinpointing Super-Quadratic Quantum Enumeration Speedups: Exact and Certified Evaluation of the Guessing-Moment Exponent under Product-Distribution Advice},\n year = {2026}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "47830787",
+    "name": "Carsten Schubert"
+   },
+   {
+    "authorId": "2502817730",
+    "name": "Niklas Paskarbeit"
+   },
+   {
+    "authorId": "2392259394",
+    "name": "Maximilian J. Kramer"
+   },
+   {
+    "authorId": "2257214838",
+    "name": "Jean-Pierre Seifert"
+   },
+   {
+    "authorId": "2294806253",
+    "name": "Marian Margraf"
+   }
+  ]
+ },
+ "ARXIV:2001.03598": {
+  "paperId": "5127194a1f5888bd95e8909dd658492717e62bd5",
+  "externalIds": {
+   "ArXiv": "2001.03598",
+   "MAG": "2999560951",
+   "DBLP": "journals/tit/HansonKDW22",
+   "DOI": "10.1109/TIT.2021.3118878",
+   "CorpusId": 210157201
+  },
+  "url": "https://www.semanticscholar.org/paper/5127194a1f5888bd95e8909dd658492717e62bd5",
+  "title": "Guesswork With Quantum Side Information",
+  "venue": "IEEE Transactions on Information Theory",
+  "year": 2020,
+  "citationCount": 15,
+  "openAccessPdf": {
+   "url": "https://arxiv.org/pdf/2001.03598",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Hanson2020GuessworkWQ,\n author = {Eric P. Hanson and Vishal Katariya and Nilanjana Datta and Mark M. Wilde},\n booktitle = {IEEE Transactions on Information Theory},\n journal = {IEEE Transactions on Information Theory},\n pages = {322-338},\n title = {Guesswork With Quantum Side Information},\n volume = {68},\n year = {2020}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2064220368",
+    "name": "Eric P. Hanson"
+   },
+   {
+    "authorId": "88802261",
+    "name": "Vishal Katariya"
+   },
+   {
+    "authorId": "2269109479",
+    "name": "Nilanjana Datta"
+   },
+   {
+    "authorId": "2267920947",
+    "name": "Mark M. Wilde"
+   }
+  ]
+ },
+ "DOI:10.1109/SP.2012.49": {
+  "paperId": "e9b8381f19c6368dc8b5ef018f888db1a9d11e99",
+  "externalIds": {
+   "MAG": "2048755632",
+   "DBLP": "conf/sp/Bonneau12",
+   "DOI": "10.1109/SP.2012.49",
+   "CorpusId": 9886259
+  },
+  "url": "https://www.semanticscholar.org/paper/e9b8381f19c6368dc8b5ef018f888db1a9d11e99",
+  "title": "The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords",
+  "venue": "IEEE Symposium on Security and Privacy",
+  "year": 2012,
+  "citationCount": 834,
+  "openAccessPdf": {
+   "url": "http://www.cl.cam.ac.uk/%7Ejcb82/doc/B12-IEEESP-analyzing_70M_anonymized_passwords.pdf",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Bonneau2012TheSO,\n author = {Joseph Bonneau},\n booktitle = {IEEE Symposium on Security and Privacy},\n journal = {2012 IEEE Symposium on Security and Privacy},\n pages = {538-552},\n title = {The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords},\n year = {2012}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "144848951",
+    "name": "Joseph Bonneau"
+   }
+  ]
+ },
+ "ARXIV:1309.6116": {
+  "paperId": "cb848a23ac81e7233afef99995e88265c9db02a4",
+  "externalIds": {
+   "MAG": "2953375833",
+   "DBLP": "journals/corr/JefferyMW13",
+   "ArXiv": "1309.6116",
+   "DOI": "10.1007/s00453-016-0206-z",
+   "CorpusId": 8286035
+  },
+  "url": "https://www.semanticscholar.org/paper/cb848a23ac81e7233afef99995e88265c9db02a4",
+  "title": "Optimal Parallel Quantum Query Algorithms",
+  "venue": "Algorithmica",
+  "year": 2013,
+  "citationCount": 28,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Jeffery2013OptimalPQ,\n author = {S. Jeffery and F. Magniez and R. de Wolf},\n booktitle = {Algorithmica},\n journal = {Algorithmica},\n pages = {509 - 529},\n title = {Optimal Parallel Quantum Query Algorithms},\n volume = {79},\n year = {2013}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "11055169",
+    "name": "S. Jeffery"
+   },
+   {
+    "authorId": "1680240",
+    "name": "F. Magniez"
+   },
+   {
+    "authorId": "2463987074",
+    "name": "R. de Wolf"
+   }
+  ]
+ },
+ "ARXIV:quant-ph/0407217": {
+  "paperId": "3221f0fd58053cf3be4c1d24a39f406d72667305",
+  "externalIds": {
+   "ArXiv": "quant-ph/0407217",
+   "MAG": "1638685551",
+   "CorpusId": 16025437
+  },
+  "url": "https://www.semanticscholar.org/paper/3221f0fd58053cf3be4c1d24a39f406d72667305",
+  "title": "Quantum search for multiple items using parallel queries",
+  "venue": "",
+  "year": 2004,
+  "citationCount": 16,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Grover2004QuantumSF,\n author = {Lov K. Grover and Jaikumar Radhakrishnan},\n journal = {arXiv: Quantum Physics},\n title = {Quantum search for multiple items using parallel queries},\n year = {2004}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1728234",
+    "name": "Lov K. Grover"
+   },
+   {
+    "authorId": "1680911",
+    "name": "Jaikumar Radhakrishnan"
+   }
+  ]
+ },
+ "ARXIV:2608.19158": {
+  "paperId": "ae4c8de3dcf14a81d6e81c17c5d5bb1494572948",
+  "externalIds": {
+   "ArXiv": "2608.19158",
+   "CorpusId": 291219409
+  },
+  "url": "https://www.semanticscholar.org/paper/ae4c8de3dcf14a81d6e81c17c5d5bb1494572948",
+  "title": "Quantum Speedups Require Structure or Depth",
+  "venue": "",
+  "year": 2026,
+  "citationCount": 2,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Inproceedings{Blanc2026QuantumSR,\n author = {Guy Blanc and Jordan Docter and Carmen Strassle and Li-Yang Tan},\n title = {Quantum Speedups Require Structure or Depth},\n year = {2026}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "38023684",
+    "name": "Guy Blanc"
+   },
+   {
+    "authorId": "2284064360",
+    "name": "Jordan Docter"
+   },
+   {
+    "authorId": "2187578760",
+    "name": "Carmen Strassle"
+   },
+   {
+    "authorId": "2253731394",
+    "name": "Li-Yang Tan"
+   }
+  ]
+ },
+ "ARXIV:2011.04149": {
+  "paperId": "f7dbc5347487091019a25baccbdea0b087d803a5",
+  "externalIds": {
+   "MAG": "3100122058",
+   "ArXiv": "2011.04149",
+   "DOI": "10.1103/PRXQUANTUM.2.010103",
+   "CorpusId": 226282118
+  },
+  "url": "https://www.semanticscholar.org/paper/f7dbc5347487091019a25baccbdea0b087d803a5",
+  "title": "Focus beyond Quadratic Speedups for Error-Corrected Quantum Advantage",
+  "venue": "PRX Quantum",
+  "year": 2020,
+  "citationCount": 206,
+  "openAccessPdf": {
+   "url": "http://link.aps.org/pdf/10.1103/PRXQuantum.2.010103",
+   "status": "GOLD",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Babbush2020FocusBQ,\n author = {R. Babbush and J. McClean and M. Newman and C. Gidney and S. Boixo and H. Neven},\n booktitle = {PRX Quantum},\n journal = {PRX Quantum},\n title = {Focus beyond Quadratic Speedups for Error-Corrected Quantum Advantage},\n year = {2020}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "47066334",
+    "name": "R. Babbush"
+   },
+   {
+    "authorId": "1933508",
+    "name": "J. McClean"
+   },
+   {
+    "authorId": "119646486",
+    "name": "M. Newman"
+   },
+   {
+    "authorId": "40834699",
+    "name": "C. Gidney"
+   },
+   {
+    "authorId": "48703443",
+    "name": "S. Boixo"
+   },
+   {
+    "authorId": "2665814",
+    "name": "H. Neven"
+   }
+  ]
+ },
+ "ARXIV:2203.04975": {
+  "paperId": "4042d1dfa3a4bb4f7c6c1b3072153636bb95f498",
+  "externalIds": {
+   "DBLP": "journals/quantum/CadeFNW23",
+   "ArXiv": "2203.04975",
+   "DOI": "10.22331/q-2023-10-10-1133",
+   "CorpusId": 247362734
+  },
+  "url": "https://www.semanticscholar.org/paper/4042d1dfa3a4bb4f7c6c1b3072153636bb95f498",
+  "title": "Quantifying Grover speed-ups beyond asymptotic analysis",
+  "venue": "Quantum",
+  "year": 2022,
+  "citationCount": 15,
+  "openAccessPdf": {
+   "url": "https://quantum-journal.org/papers/q-2023-10-10-1133/pdf/",
+   "status": "GOLD",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Cade2022QuantifyingGS,\n author = {Chris Cade and Marten Folkertsma and I. Niesen and J. Weggemans},\n booktitle = {Quantum},\n journal = {Quantum},\n pages = {1133},\n title = {Quantifying Grover speed-ups beyond asymptotic analysis},\n volume = {7},\n year = {2022}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "39915060",
+    "name": "Chris Cade"
+   },
+   {
+    "authorId": "2158367482",
+    "name": "Marten Folkertsma"
+   },
+   {
+    "authorId": "30016608",
+    "name": "I. Niesen"
+   },
+   {
+    "authorId": "1976144686",
+    "name": "J. Weggemans"
+   }
+  ]
+ },
+ "ARXIV:1512.04965": {
+  "paperId": "ee5ddb275c8d07df69dbfeb231f64e088ca0daee",
+  "externalIds": {
+   "DBLP": "conf/pqcrypto/2016",
+   "ArXiv": "1512.04965",
+   "MAG": "2890203463",
+   "DOI": "10.1007/978-3-319-29360-8",
+   "CorpusId": 277497590
+  },
+  "url": "https://www.semanticscholar.org/paper/ee5ddb275c8d07df69dbfeb231f64e088ca0daee",
+  "title": "Post-Quantum Cryptography",
+  "venue": "Lecture Notes in Computer Science",
+  "year": 2015,
+  "citationCount": 64,
+  "openAccessPdf": {
+   "url": "https://arxiv.org/pdf/1512.04965",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Grassl2015PostQuantumC,\n author = {Markus Grassl and Brandon Langenberg and M. R\u00f6tteler and R. Steinwandt},\n booktitle = {Lecture Notes in Computer Science},\n title = {Post-Quantum Cryptography},\n volume = {9606},\n year = {2015}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2238228284",
+    "name": "Markus Grassl"
+   },
+   {
+    "authorId": "3068316",
+    "name": "Brandon Langenberg"
+   },
+   {
+    "authorId": "1696660",
+    "name": "M. R\u00f6tteler"
+   },
+   {
+    "authorId": "1718918",
+    "name": "R. Steinwandt"
+   }
+  ]
+ },
+ "ARXIV:1910.01700": {
+  "paperId": "9be5e82517599d59e5feca01221741b57e679cf6",
+  "externalIds": {
+   "MAG": "2979004593",
+   "DBLP": "journals/iacr/JaquesNRV19",
+   "PubMedCentral": "7991734",
+   "ArXiv": "1910.01700",
+   "DOI": "10.1007/978-3-030-45724-2_10",
+   "CorpusId": 203734595
+  },
+  "url": "https://www.semanticscholar.org/paper/9be5e82517599d59e5feca01221741b57e679cf6",
+  "title": "Implementing Grover Oracles for Quantum Key Search on AES and LowMC",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2019,
+  "citationCount": 242,
+  "openAccessPdf": {
+   "url": "https://arxiv.org/pdf/1910.01700",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Jaques2019ImplementingGO,\n author = {Samuel Jaques and Michael Naehrig and M. Roetteler and Fernando Virdia},\n booktitle = {IACR Cryptology ePrint Archive},\n journal = {Advances in Cryptology \u2013 EUROCRYPT 2020},\n pages = {280 - 310},\n title = {Implementing Grover Oracles for Quantum Key Search on AES and LowMC},\n volume = {12106},\n year = {2019}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "69921763",
+    "name": "Samuel Jaques"
+   },
+   {
+    "authorId": "1813607",
+    "name": "Michael Naehrig"
+   },
+   {
+    "authorId": "46278269",
+    "name": "M. Roetteler"
+   },
+   {
+    "authorId": "29793705",
+    "name": "Fernando Virdia"
+   }
+  ]
+ },
+ "ARXIV:1603.09383": {
+  "paperId": "05638eeae4815cc2ff596ed3a0109acd623f7fde",
+  "externalIds": {
+   "DBLP": "conf/sacrypt/AmyMGMPS16",
+   "MAG": "2950960057",
+   "ArXiv": "1603.09383",
+   "DOI": "10.1007/978-3-319-69453-5_18",
+   "CorpusId": 1828632
+  },
+  "url": "https://www.semanticscholar.org/paper/05638eeae4815cc2ff596ed3a0109acd623f7fde",
+  "title": "Estimating the Cost of Generic Quantum Pre-image Attacks on SHA-2 and SHA-3",
+  "venue": "ACM Symposium on Applied Computing",
+  "year": 2016,
+  "citationCount": 139,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Amy2016EstimatingTC,\n author = {M. Amy and Olivia Di Matteo and Vlad Gheorghiu and M. Mosca and A. Parent and John M. Schanck},\n booktitle = {ACM Symposium on Applied Computing},\n pages = {317-337},\n title = {Estimating the Cost of Generic Quantum Pre-image Attacks on SHA-2 and SHA-3},\n year = {2016}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2221962",
+    "name": "M. Amy"
+   },
+   {
+    "authorId": "2492746122",
+    "name": "Olivia Di Matteo"
+   },
+   {
+    "authorId": "39722012",
+    "name": "Vlad Gheorghiu"
+   },
+   {
+    "authorId": "26985859",
+    "name": "M. Mosca"
+   },
+   {
+    "authorId": "2887878",
+    "name": "A. Parent"
+   },
+   {
+    "authorId": "2560715",
+    "name": "John M. Schanck"
+   }
+  ]
+ },
+ "ARXIV:1902.02332": {
+  "paperId": "abdcc38c5bf7ef7cb0046fc8c4b79d1af1be0b51",
+  "externalIds": {
+   "MAG": "2993007990",
+   "ArXiv": "1902.02332",
+   "CorpusId": 119258198
+  },
+  "url": "https://www.semanticscholar.org/paper/abdcc38c5bf7ef7cb0046fc8c4b79d1af1be0b51",
+  "title": "Benchmarking the quantum cryptanalysis of symmetric, public-key and hash-based cryptographic schemes",
+  "venue": "",
+  "year": 2019,
+  "citationCount": 56,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Gheorghiu2019BenchmarkingTQ,\n author = {Vlad Gheorghiu and M. Mosca},\n journal = {arXiv: Quantum Physics},\n title = {Benchmarking the quantum cryptanalysis of symmetric, public-key and hash-based cryptographic schemes},\n year = {2019}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "39722012",
+    "name": "Vlad Gheorghiu"
+   },
+   {
+    "authorId": "26985859",
+    "name": "M. Mosca"
+   }
+  ]
+ },
+ "ARXIV:2005.05911": {
+  "paperId": "9d175763d31aa16a3bb380e7f20cba43fe4768d9",
+  "externalIds": {
+   "ArXiv": "2005.05911",
+   "DBLP": "journals/corr/abs-2005-05911",
+   "MAG": "3025461878",
+   "CorpusId": 218595848
+  },
+  "url": "https://www.semanticscholar.org/paper/9d175763d31aa16a3bb380e7f20cba43fe4768d9",
+  "title": "An Economic Model for Quantum Key-Recovery Attacks against Ideal Ciphers",
+  "venue": "arXiv.org",
+  "year": 2020,
+  "citationCount": 1,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Harsha2020AnEM,\n author = {Benjamin Harsha and Jeremiah Blocki},\n booktitle = {arXiv.org},\n journal = {ArXiv},\n title = {An Economic Model for Quantum Key-Recovery Attacks against Ideal Ciphers},\n volume = {abs/2005.05911},\n year = {2020}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "38428453",
+    "name": "Benjamin Harsha"
+   },
+   {
+    "authorId": "35785880",
+    "name": "Jeremiah Blocki"
+   }
+  ]
+ },
+ "DOI:10.1109/SP.2009.8": {
+  "paperId": "4681a0116597fd0804b07e8176b8761e4f569743",
+  "externalIds": {
+   "MAG": "2135359429",
+   "DBLP": "conf/sp/WeirAMG09",
+   "DOI": "10.1109/SP.2009.8",
+   "CorpusId": 10892926
+  },
+  "url": "https://www.semanticscholar.org/paper/4681a0116597fd0804b07e8176b8761e4f569743",
+  "title": "Password Cracking Using Probabilistic Context-Free Grammars",
+  "venue": "IEEE Symposium on Security and Privacy",
+  "year": 2009,
+  "citationCount": 589,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Weir2009PasswordCU,\n author = {M. Weir and S. Aggarwal and B. de Medeiros and Bill Glodek},\n booktitle = {IEEE Symposium on Security and Privacy},\n journal = {2009 30th IEEE Symposium on Security and Privacy},\n pages = {391-405},\n title = {Password Cracking Using Probabilistic Context-Free Grammars},\n year = {2009}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2056013440",
+    "name": "M. Weir"
+   },
+   {
+    "authorId": "144204651",
+    "name": "S. Aggarwal"
+   },
+   {
+    "authorId": "2480843846",
+    "name": "B. de Medeiros"
+   },
+   {
+    "authorId": "2914410",
+    "name": "Bill Glodek"
+   }
+  ]
+ },
+ "DOI:10.1007/978-3-319-15618-7_10": {
+  "paperId": "62f827f8cbe82548c9575ff89a95a0f9dd534942",
+  "externalIds": {
+   "MAG": "821002660",
+   "DBLP": "conf/essos/DurmuthACPA15",
+   "DOI": "10.1007/978-3-319-15618-7_10",
+   "CorpusId": 3716469
+  },
+  "url": "https://www.semanticscholar.org/paper/62f827f8cbe82548c9575ff89a95a0f9dd534942",
+  "title": "OMEN: Faster Password Guessing Using an Ordered Markov Enumerator",
+  "venue": "Engineering Secure Software and Systems",
+  "year": 2015,
+  "citationCount": 132,
+  "openAccessPdf": {
+   "url": "https://hal.archives-ouvertes.fr/hal-01112124/file/omen.pdf",
+   "status": "GREEN",
+   "license": "other-oa"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{D\u00fcrmuth2015OMENFP,\n author = {Markus D\u00fcrmuth and Fabian Angelstorf and C. Castelluccia and Daniele Perito and Abdelberi Chaabane},\n booktitle = {Engineering Secure Software and Systems},\n pages = {119-132},\n title = {OMEN: Faster Password Guessing Using an Ordered Markov Enumerator},\n year = {2015}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2432288",
+    "name": "Markus D\u00fcrmuth"
+   },
+   {
+    "authorId": "2083369590",
+    "name": "Fabian Angelstorf"
+   },
+   {
+    "authorId": "1691730",
+    "name": "C. Castelluccia"
+   },
+   {
+    "authorId": "1765521",
+    "name": "Daniele Perito"
+   },
+   {
+    "authorId": "34982211",
+    "name": "Abdelberi Chaabane"
+   }
+  ]
+ },
+ "DOI:10.1145/2810103.2813631": {
+  "paperId": "a02555e2735cf0ca5f1d930da17bbf501bb0e7d7",
+  "externalIds": {
+   "MAG": "2157151879",
+   "DBLP": "conf/ccs/DellAmicoF15",
+   "DOI": "10.1145/2810103.2813631",
+   "CorpusId": 13071215
+  },
+  "url": "https://www.semanticscholar.org/paper/a02555e2735cf0ca5f1d930da17bbf501bb0e7d7",
+  "title": "Monte Carlo Strength Evaluation: Fast and Reliable Password Checking",
+  "venue": "Conference on Computer and Communications Security",
+  "year": 2015,
+  "citationCount": 117,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Dell'Amico2015MonteCS,\n author = {Matteo Dell'Amico and M. Filippone},\n booktitle = {Conference on Computer and Communications Security},\n journal = {Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security},\n title = {Monte Carlo Strength Evaluation: Fast and Reliable Password Checking},\n year = {2015}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1402212020",
+    "name": "Matteo Dell'Amico"
+   },
+   {
+    "authorId": "3138895",
+    "name": "M. Filippone"
+   }
+  ]
+ },
+ "DOI:10.1109/EuroSP.2016.31": {
+  "paperId": "052eda12c9acee6e8ddbbcb889ae0c767db9aa48",
+  "externalIds": {
+   "MAG": "2354711464",
+   "DBLP": "conf/eurosp/BiryukovDK16",
+   "DOI": "10.1109/EuroSP.2016.31",
+   "CorpusId": 15014453
+  },
+  "url": "https://www.semanticscholar.org/paper/052eda12c9acee6e8ddbbcb889ae0c767db9aa48",
+  "title": "Argon2: New Generation of Memory-Hard Functions for Password Hashing and Other Applications",
+  "venue": "European Symposium on Security and Privacy",
+  "year": 2016,
+  "citationCount": 223,
+  "openAccessPdf": {
+   "url": "https://orbilu.uni.lu/handle/10993/31652",
+   "status": "GREEN",
+   "license": "other-oa"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Biryukov2016Argon2NG,\n author = {A. Biryukov and Daniel Dinu and D. Khovratovich},\n booktitle = {European Symposium on Security and Privacy},\n journal = {2016 IEEE European Symposium on Security and Privacy (EuroS&P)},\n pages = {292-302},\n title = {Argon2: New Generation of Memory-Hard Functions for Password Hashing and Other Applications},\n year = {2016}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "144436150",
+    "name": "A. Biryukov"
+   },
+   {
+    "authorId": "35043520",
+    "name": "Daniel Dinu"
+   },
+   {
+    "authorId": "1768670",
+    "name": "D. Khovratovich"
+   }
+  ]
+ },
+ "ARXIV:2110.04191": {
+  "paperId": "d873bdeef94e656343aee4eb45fd321f9be9608f",
+  "externalIds": {
+   "DBLP": "journals/iacr/BlockiHL22",
+   "ArXiv": "2110.04191",
+   "DOI": "10.1007/978-3-031-22318-1_3",
+   "CorpusId": 252846363
+  },
+  "url": "https://www.semanticscholar.org/paper/d873bdeef94e656343aee4eb45fd321f9be9608f",
+  "title": "The Parallel Reversible Pebbling Game: Analyzing the Post-Quantum Security of iMHFs",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2021,
+  "citationCount": 3,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Blocki2021ThePR,\n author = {Jeremiah Blocki and Blake Holman and Seunghoon Lee},\n booktitle = {IACR Cryptology ePrint Archive},\n pages = {52-79},\n title = {The Parallel Reversible Pebbling Game: Analyzing the Post-Quantum Security of iMHFs},\n year = {2021}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "35785880",
+    "name": "Jeremiah Blocki"
+   },
+   {
+    "authorId": "2122368606",
+    "name": "Blake Holman"
+   },
+   {
+    "authorId": "2117177901",
+    "name": "Seunghoon Lee"
+   }
+  ]
+ },
+ "ARXIV:2301.05680": {
+  "paperId": "b3b2b647b87d0242297255b29a0e9e8ac00a00d8",
+  "externalIds": {
+   "ArXiv": "2301.05680",
+   "DBLP": "journals/corr/abs-2301-05680",
+   "DOI": "10.1145/3728715",
+   "CorpusId": 255825839
+  },
+  "url": "https://www.semanticscholar.org/paper/b3b2b647b87d0242297255b29a0e9e8ac00a00d8",
+  "title": "Cumulative Memory Lower Bounds for Randomized and Quantum Computation",
+  "venue": "Electron. Colloquium Comput. Complex.",
+  "year": 2023,
+  "citationCount": 5,
+  "openAccessPdf": {
+   "url": "https://dl.acm.org/doi/pdf/10.1145/3728715",
+   "status": "HYBRID",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Beame2023CumulativeML,\n author = {P. Beame and Niels Kornerup},\n booktitle = {Electron. Colloquium Comput. Complex.},\n journal = {ACM Transactions on Computation Theory},\n pages = {1 - 33},\n title = {Cumulative Memory Lower Bounds for Randomized and Quantum Computation},\n volume = {17},\n year = {2023}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1791374",
+    "name": "P. Beame"
+   },
+   {
+    "authorId": "51210849",
+    "name": "Niels Kornerup"
+   }
+  ]
+ },
+ "ARXIV:0708.1879": {
+  "paperId": "8578cf1abe804dbe7c53ddd09dd0a701fad81547",
+  "externalIds": {
+   "MAG": "2051446825",
+   "ArXiv": "0708.1879",
+   "DOI": "10.1103/PhysRevLett.100.160501",
+   "CorpusId": 570390,
+   "PubMed": "18518173"
+  },
+  "url": "https://www.semanticscholar.org/paper/8578cf1abe804dbe7c53ddd09dd0a701fad81547",
+  "title": "Quantum random access memory.",
+  "venue": "Physical Review Letters",
+  "year": 2007,
+  "citationCount": 977,
+  "openAccessPdf": {
+   "url": "http://link.aps.org/pdf/10.1103/PhysRevLett.100.160501",
+   "status": "BRONZE",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Giovannetti2007QuantumRA,\n author = {V. Giovannetti and S. Lloyd and L. Maccone},\n booktitle = {Physical Review Letters},\n journal = {Physical review letters},\n pages = {\n          160501\n        },\n title = {Quantum random access memory.},\n volume = {100 16},\n year = {2007}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1920467",
+    "name": "V. Giovannetti"
+   },
+   {
+    "authorId": "145762777",
+    "name": "S. Lloyd"
+   },
+   {
+    "authorId": "3110577",
+    "name": "L. Maccone"
+   }
+  ]
+ },
+ "ARXIV:2305.10310": {
+  "paperId": "3e113819403334441ef5f244495de2b0249fb393",
+  "externalIds": {
+   "DBLP": "journals/quantum/JaquesR25",
+   "ArXiv": "2305.10310",
+   "DOI": "10.22331/q-2025-12-02-1922",
+   "CorpusId": 258740891
+  },
+  "url": "https://www.semanticscholar.org/paper/3e113819403334441ef5f244495de2b0249fb393",
+  "title": "QRAM: A Survey and Critique",
+  "venue": "Quantum",
+  "year": 2023,
+  "citationCount": 69,
+  "openAccessPdf": {
+   "url": "https://quantum-journal.org/papers/q-2025-12-02-1922/pdf/",
+   "status": "GOLD",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Jaques2023QRAMAS,\n author = {Samuel Jaques and Arthur G. Rattew},\n booktitle = {Quantum},\n journal = {Quantum},\n pages = {1922},\n title = {QRAM: A Survey and Critique},\n volume = {9},\n year = {2023}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "69921763",
+    "name": "Samuel Jaques"
+   },
+   {
+    "authorId": "1379523968",
+    "name": "Arthur G. Rattew"
+   }
+  ]
+ },
+ "ARXIV:quant-ph/0208112": {
+  "paperId": "07f4621702954efa955f8877f338c3dfe58c7bae",
+  "externalIds": {
+   "ArXiv": "quant-ph/0208112",
+   "MAG": "1624621931",
+   "CorpusId": 118380132
+  },
+  "url": "https://www.semanticscholar.org/paper/07f4621702954efa955f8877f338c3dfe58c7bae",
+  "title": "Creating superpositions that correspond to efficiently integrable probability distributions",
+  "venue": "",
+  "year": 2002,
+  "citationCount": 566,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Grover2002CreatingST,\n author = {Lov K. Grover and T. Rudolph},\n journal = {arXiv: Quantum Physics},\n title = {Creating superpositions that correspond to efficiently integrable probability distributions},\n year = {2002}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1728234",
+    "name": "Lov K. Grover"
+   },
+   {
+    "authorId": "145852716",
+    "name": "T. Rudolph"
+   }
+  ]
+ },
+ "ARXIV:1805.03662": {
+  "paperId": "f5448598a5ba2de65c03c3757710344b33404cd0",
+  "externalIds": {
+   "ArXiv": "1805.03662",
+   "MAG": "2801305581",
+   "DOI": "10.1103/PhysRevX.8.041015",
+   "CorpusId": 53406696
+  },
+  "url": "https://www.semanticscholar.org/paper/f5448598a5ba2de65c03c3757710344b33404cd0",
+  "title": "Encoding Electronic Spectra in Quantum Circuits with Linear T Complexity",
+  "venue": "Physical Review X",
+  "year": 2018,
+  "citationCount": 525,
+  "openAccessPdf": {
+   "url": "http://link.aps.org/pdf/10.1103/PhysRevX.8.041015",
+   "status": "GOLD",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Babbush2018EncodingES,\n author = {R. Babbush and C. Gidney and D. Berry and N. Wiebe and J. McClean and A. Paler and A. Fowler and H. Neven},\n booktitle = {Physical Review X},\n journal = {Physical Review X},\n title = {Encoding Electronic Spectra in Quantum Circuits with Linear T Complexity},\n year = {2018}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "47066334",
+    "name": "R. Babbush"
+   },
+   {
+    "authorId": "40834699",
+    "name": "C. Gidney"
+   },
+   {
+    "authorId": "2369808",
+    "name": "D. Berry"
+   },
+   {
+    "authorId": "3253856",
+    "name": "N. Wiebe"
+   },
+   {
+    "authorId": "1933508",
+    "name": "J. McClean"
+   },
+   {
+    "authorId": "2749328",
+    "name": "A. Paler"
+   },
+   {
+    "authorId": "32507823",
+    "name": "A. Fowler"
+   },
+   {
+    "authorId": "2665814",
+    "name": "H. Neven"
+   }
+  ]
+ },
+ "ARXIV:1812.00954": {
+  "paperId": "cf90b388b9a62142acdc8c775ada870f86615e86",
+  "externalIds": {
+   "ArXiv": "1812.00954",
+   "MAG": "2902431979",
+   "DBLP": "journals/quantum/LowKS24",
+   "DOI": "10.22331/q-2024-06-17-1375",
+   "CorpusId": 119080099
+  },
+  "url": "https://www.semanticscholar.org/paper/cf90b388b9a62142acdc8c775ada870f86615e86",
+  "title": "Trading T gates for dirty qubits in state preparation and unitary synthesis",
+  "venue": "Quantum",
+  "year": 2018,
+  "citationCount": 148,
+  "openAccessPdf": {
+   "url": "https://doi.org/10.22331/q-2024-06-17-1375",
+   "status": "GOLD",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Low2018TradingTG,\n author = {G. Low and V. Kliuchnikov and Luke Schaeffer},\n booktitle = {Quantum},\n journal = {Quantum},\n pages = {1375},\n title = {Trading T gates for dirty qubits in state preparation and unitary synthesis},\n volume = {8},\n year = {2018}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1917423",
+    "name": "G. Low"
+   },
+   {
+    "authorId": "3270123",
+    "name": "V. Kliuchnikov"
+   },
+   {
+    "authorId": "34772472",
+    "name": "Luke Schaeffer"
+   }
+  ]
+ },
+ "Quantum Key Search with Side Channel Advice": {
+  "paperId": "6a7a028e706aa5944dc3a74909b1e5b8551763b8",
+  "externalIds": {
+   "MAG": "2604702841",
+   "DBLP": "conf/sacrypt/0001MOS17",
+   "DOI": "10.1007/978-3-319-72565-9_21",
+   "CorpusId": 20923213
+  },
+  "url": "https://www.semanticscholar.org/paper/6a7a028e706aa5944dc3a74909b1e5b8551763b8",
+  "title": "Quantum Key Search with Side Channel Advice",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2017,
+  "citationCount": 15,
+  "openAccessPdf": {
+   "url": "https://research-information.bris.ac.uk/en/publications/ffe7812e-4fc6-43ff-82b6-82877fd958a5",
+   "status": "GREEN",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Martin2017QuantumKS,\n author = {Daniel P. Martin and Ashley Montanaro and E. Oswald and D. Shepherd},\n booktitle = {IACR Cryptology ePrint Archive},\n pages = {407-422},\n title = {Quantum Key Search with Side Channel Advice},\n year = {2017}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "3380344",
+    "name": "Daniel P. Martin"
+   },
+   {
+    "authorId": "2900973",
+    "name": "Ashley Montanaro"
+   },
+   {
+    "authorId": "145944405",
+    "name": "E. Oswald"
+   },
+   {
+    "authorId": "29448610",
+    "name": "D. Shepherd"
+   }
+  ],
+  "matchScore": 198.17868
+ },
+ "Towards Quantum Large-Scale Password Guessing on Real-World Distributions": {
+  "paperId": "05d771de6c8535f42c035f4600298b30a8165eae",
+  "externalIds": {
+   "DBLP": "conf/cans/DurmuthGMMS21",
+   "DOI": "10.1007/978-3-030-92548-2_22",
+   "CorpusId": 238479342
+  },
+  "url": "https://www.semanticscholar.org/paper/05d771de6c8535f42c035f4600298b30a8165eae",
+  "title": "Towards Quantum Large-Scale Password Guessing on Real-World Distributions",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2021,
+  "citationCount": 9,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{D\u00fcrmuth2021TowardsQL,\n author = {Markus D\u00fcrmuth and Maximilian Golla and Philipp Markert and Alexander May and Lars Schlieper},\n booktitle = {IACR Cryptology ePrint Archive},\n journal = {IACR Cryptol. ePrint Arch.},\n pages = {1299},\n title = {Towards Quantum Large-Scale Password Guessing on Real-World Distributions},\n volume = {2021},\n year = {2021}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2432288",
+    "name": "Markus D\u00fcrmuth"
+   },
+   {
+    "authorId": "3367361",
+    "name": "Maximilian Golla"
+   },
+   {
+    "authorId": "1557533872",
+    "name": "Philipp Markert"
+   },
+   {
+    "authorId": "145682904",
+    "name": "Alexander May"
+   },
+   {
+    "authorId": "121289898",
+    "name": "Lars Schlieper"
+   }
+  ],
+  "matchScore": 268.82306
+ },
+ "A Hybrid Lattice Basis Reduction and Quantum Search Attack on LWE": {
+  "paperId": "199716d8395516aefc160d0c137b0b89a1313612",
+  "externalIds": {
+   "MAG": "2621205330",
+   "DBLP": "conf/pqcrypto/GopfertVW17",
+   "DOI": "10.1007/978-3-319-59879-6_11",
+   "CorpusId": 5675587
+  },
+  "url": "https://www.semanticscholar.org/paper/199716d8395516aefc160d0c137b0b89a1313612",
+  "title": "A Hybrid Lattice Basis Reduction and Quantum Search Attack on LWE",
+  "venue": "Post-Quantum Cryptography",
+  "year": 2017,
+  "citationCount": 48,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{G\u00f6pfert2017AHL,\n author = {Florian G\u00f6pfert and C. van Vredendaal and T. Wunderer},\n booktitle = {Post-Quantum Cryptography},\n pages = {184-202},\n title = {A Hybrid Lattice Basis Reduction and Quantum Search Attack on LWE},\n year = {2017}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1768987",
+    "name": "Florian G\u00f6pfert"
+   },
+   {
+    "authorId": "2489431548",
+    "name": "C. van Vredendaal"
+   },
+   {
+    "authorId": "3193647",
+    "name": "T. Wunderer"
+   }
+  ],
+  "matchScore": 282.7874
+ },
+ "DOI:10.1109/18.481781": {
+  "paperId": "8d384226bc8aef581e93970484ea4026d32b94ce",
+  "externalIds": {
+   "DBLP": "journals/tit/Arikan96",
+   "MAG": "2165203736",
+   "DOI": "10.1109/ISIT.1995.550309",
+   "CorpusId": 14206538
+  },
+  "url": "https://www.semanticscholar.org/paper/8d384226bc8aef581e93970484ea4026d32b94ce",
+  "title": "An inequality on guessing and its application to sequential decoding",
+  "venue": "Proceedings of 1995 IEEE International Symposium on Information Theory",
+  "year": 1995,
+  "citationCount": 334,
+  "openAccessPdf": {
+   "url": "https://repository.bilkent.edu.tr/bitstreams/c256023f-43af-4315-a8da-3061b904ccbf/download",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Ar\u0131kan1995AnIO,\n author = {E. Ar\u0131kan},\n booktitle = {Proceedings of 1995 IEEE International Symposium on Information Theory},\n journal = {Proceedings of 1995 IEEE International Symposium on Information Theory},\n pages = {322-},\n title = {An inequality on guessing and its application to sequential decoding},\n year = {1995}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "144955740",
+    "name": "E. Ar\u0131kan"
+   }
+  ],
+  "matchScore": 210.56944
+ },
+ "Guesswork and entropy": {
+  "paperId": "2bf769dede68f153681b549e9b488486612088a2",
+  "externalIds": {
+   "MAG": "2131814097",
+   "DBLP": "journals/tit/MaloneS04",
+   "DOI": "10.1109/TIT.2004.824921",
+   "CorpusId": 1707444
+  },
+  "url": "https://www.semanticscholar.org/paper/2bf769dede68f153681b549e9b488486612088a2",
+  "title": "Guesswork and entropy",
+  "venue": "IEEE Transactions on Information Theory",
+  "year": 2004,
+  "citationCount": 95,
+  "openAccessPdf": {
+   "url": "http://eprints.maynoothuniversity.ie/1462/1/MaloneGuessworkIEEE.pdf",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Malone2004GuessworkAE,\n author = {David Malone and W. Sullivan},\n booktitle = {IEEE Transactions on Information Theory},\n journal = {IEEE Transactions on Information Theory},\n pages = {525-526},\n title = {Guesswork and entropy},\n volume = {50},\n year = {2004}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2060417967",
+    "name": "David Malone"
+   },
+   {
+    "authorId": "143809569",
+    "name": "W. Sullivan"
+   }
+  ],
+  "matchScore": 96.477264
+ },
+ "Zipf's Law in Passwords": {
+  "paperId": "f869eda5cdcaea8989fa3cdaa4be44988067236f",
+  "externalIds": {
+   "MAG": "2734150319",
+   "DBLP": "journals/tifs/WangCWHJ17",
+   "DOI": "10.1109/TIFS.2017.2721359",
+   "CorpusId": 3411429
+  },
+  "url": "https://www.semanticscholar.org/paper/f869eda5cdcaea8989fa3cdaa4be44988067236f",
+  "title": "Zipf\u2019s Law in Passwords",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "year": 2017,
+  "citationCount": 498,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Wang2017ZipfsLI,\n author = {Ding Wang and Hai-Bo Cheng and Ping Wang and Xin-Yi Huang and Gaopeng Jian},\n booktitle = {IEEE Transactions on Information Forensics and Security},\n journal = {IEEE Transactions on Information Forensics and Security},\n pages = {2776-2791},\n title = {Zipf\u2019s Law in Passwords},\n volume = {12},\n year = {2017}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "51457935",
+    "name": "Ding Wang"
+   },
+   {
+    "authorId": "3410032",
+    "name": "Hai-Bo Cheng"
+   },
+   {
+    "authorId": "40268140",
+    "name": "Ping Wang"
+   },
+   {
+    "authorId": "144095295",
+    "name": "Xin-Yi Huang"
+   },
+   {
+    "authorId": "35763826",
+    "name": "Gaopeng Jian"
+   }
+  ],
+  "matchScore": 121.57861
+ },
+ "Quantum Lattice Enumeration in Limited Depth": {
+  "paperId": "71f2c110e99d140467ea6305dc500c2c167e65f6",
+  "externalIds": {
+   "DBLP": "journals/iacr/BindelBTV23",
+   "CorpusId": 263743082
+  },
+  "url": "https://www.semanticscholar.org/paper/71f2c110e99d140467ea6305dc500c2c167e65f6",
+  "title": "Quantum Lattice Enumeration in Limited Depth",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2023,
+  "citationCount": 6,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Bindel2023QuantumLE,\n author = {N. Bindel and X. Bonnetain and Marcel Tiepelt and Fernando Virdia},\n booktitle = {IACR Cryptology ePrint Archive},\n journal = {IACR Cryptol. ePrint Arch.},\n pages = {1423},\n title = {Quantum Lattice Enumeration in Limited Depth},\n volume = {2023},\n year = {2023}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2784199",
+    "name": "N. Bindel"
+   },
+   {
+    "authorId": "23580546",
+    "name": "X. Bonnetain"
+   },
+   {
+    "authorId": "2256156209",
+    "name": "Marcel Tiepelt"
+   },
+   {
+    "authorId": "29793705",
+    "name": "Fernando Virdia"
+   }
+  ],
+  "matchScore": 204.53549
+ },
+ "Reassessing Grover's Algorithm": {
+  "paperId": "90ae0c8abf01fa0320be0bf8b3474febc25fa0b2",
+  "externalIds": {
+   "MAG": "2795188503",
+   "DBLP": "journals/iacr/Fluhrer17a",
+   "CorpusId": 3697846
+  },
+  "url": "https://www.semanticscholar.org/paper/90ae0c8abf01fa0320be0bf8b3474febc25fa0b2",
+  "title": "Reassessing Grover's Algorithm",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2017,
+  "citationCount": 13,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Fluhrer2017ReassessingGA,\n author = {S. Fluhrer},\n booktitle = {IACR Cryptology ePrint Archive},\n journal = {IACR Cryptol. ePrint Arch.},\n pages = {811},\n title = {Reassessing Grover's Algorithm},\n volume = {2017},\n year = {2017}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1880948",
+    "name": "S. Fluhrer"
+   }
+  ],
+  "matchScore": 116.6454
+ },
+ "Quantum cryptanalysis in the RAM model: Claw-finding attacks on SIKE": {
+  "paperId": "7e171285ff789378f83fb2313b7290008956bca2",
+  "externalIds": {
+   "MAG": "2918812314",
+   "DBLP": "journals/iacr/JaquesS19",
+   "DOI": "10.1007/978-3-030-26948-7_2",
+   "CorpusId": 60442861
+  },
+  "url": "https://www.semanticscholar.org/paper/7e171285ff789378f83fb2313b7290008956bca2",
+  "title": "Quantum cryptanalysis in the RAM model: Claw-finding attacks on SIKE",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2019,
+  "citationCount": 96,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Jaques2019QuantumCI,\n author = {Samuel Jaques and John M. Schanck},\n booktitle = {IACR Cryptology ePrint Archive},\n pages = {32-61},\n title = {Quantum cryptanalysis in the RAM model: Claw-finding attacks on SIKE},\n year = {2019}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "69921763",
+    "name": "Samuel Jaques"
+   },
+   {
+    "authorId": "2560715",
+    "name": "John M. Schanck"
+   }
+  ],
+  "matchScore": 306.3197
+ },
+ "Submission Requirements and Evaluation Criteria for the Post-Quantum Cryptography Standardization Process": {},
+ "On the practical cost of Grover for AES key recovery": {},
+ "Quantum Implementation of SHA-1": {
+  "paperId": "d4a65d2f7210e93f5ef9ab8f7f55d01d13dbb9cb",
+  "externalIds": {
+   "DBLP": "journals/iacr/YoonSJCS25",
+   "DOI": "10.1007/978-981-95-6857-4_14",
+   "CorpusId": 281305988
+  },
+  "url": "https://www.semanticscholar.org/paper/d4a65d2f7210e93f5ef9ab8f7f55d01d13dbb9cb",
+  "title": "Quantum Implementation of SHA-1",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2025,
+  "citationCount": 1,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Yoon2025QuantumIO,\n author = {Seyoung Yoon and Gyeongju Song and Kyungbae Jang and Sangmin Cha and Hwajeong Seo},\n booktitle = {IACR Cryptology ePrint Archive},\n pages = {182-197},\n title = {Quantum Implementation of SHA-1},\n year = {2025}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2203312797",
+    "name": "Seyoung Yoon"
+   },
+   {
+    "authorId": "2088288272",
+    "name": "Gyeongju Song"
+   },
+   {
+    "authorId": "2387983812",
+    "name": "Kyungbae Jang"
+   },
+   {
+    "authorId": "2379247584",
+    "name": "Sangmin Cha"
+   },
+   {
+    "authorId": "2242594677",
+    "name": "Hwajeong Seo"
+   }
+  ],
+  "matchScore": 161.41798
+ },
+ "Quantum implementation of Keccak-f(25) for emulator and quantum hardware, and application to quantum password cracking": {},
+ "Quantum Computing: Progress and Prospects": {},
+ "Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks": {
+  "paperId": "d61a1134f8719ceae41bf05c7ec1dbcd1508ee02",
+  "externalIds": {
+   "MAG": "2463456957",
+   "DBLP": "conf/uss/MelicherUSKBCC16",
+   "CorpusId": 2320797
+  },
+  "url": "https://www.semanticscholar.org/paper/d61a1134f8719ceae41bf05c7ec1dbcd1508ee02",
+  "title": "Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks",
+  "venue": "USENIX Annual Technical Conference",
+  "year": 2016,
+  "citationCount": 347,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Melicher2016FastLA,\n author = {William Melicher and Blase Ur and Sean M. Segreti and Saranga Komanduri and Lujo Bauer and Nicolas Christin and L. Cranor},\n booktitle = {USENIX Annual Technical Conference},\n pages = {175-191},\n title = {Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks},\n year = {2016}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2006135",
+    "name": "William Melicher"
+   },
+   {
+    "authorId": "2222651",
+    "name": "Blase Ur"
+   },
+   {
+    "authorId": null,
+    "name": "Sean M. Segreti"
+   },
+   {
+    "authorId": "21028132",
+    "name": "Saranga Komanduri"
+   },
+   {
+    "authorId": "41224057",
+    "name": "Lujo Bauer"
+   },
+   {
+    "authorId": "2637728",
+    "name": "Nicolas Christin"
+   },
+   {
+    "authorId": "1699751",
+    "name": "L. Cranor"
+   }
+  ],
+  "matchScore": 269.814
+ },
+ "On the Economics of Offline Password Cracking": {
+  "paperId": "a2d6fe140d78673d14e248684c043a3b5a1885f2",
+  "externalIds": {
+   "MAG": "2794597466",
+   "ArXiv": "2006.05023",
+   "DBLP": "conf/sp/BlockiHZ18",
+   "DOI": "10.1109/SP.2018.00009",
+   "CorpusId": 206579234
+  },
+  "url": "https://www.semanticscholar.org/paper/a2d6fe140d78673d14e248684c043a3b5a1885f2",
+  "title": "On the Economics of Offline Password Cracking",
+  "venue": "IEEE Symposium on Security and Privacy",
+  "year": 2018,
+  "citationCount": 82,
+  "openAccessPdf": {
+   "url": "https://ieeexplore.ieee.org/ielx7/8418581/8418583/08418642.pdf",
+   "status": "GOLD",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Blocki2018OnTE,\n author = {Jeremiah Blocki and Benjamin Harsha and Samson Zhou},\n booktitle = {IEEE Symposium on Security and Privacy},\n journal = {2018 IEEE Symposium on Security and Privacy (SP)},\n pages = {853-871},\n title = {On the Economics of Offline Password Cracking},\n year = {2018}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "35785880",
+    "name": "Jeremiah Blocki"
+   },
+   {
+    "authorId": "38428453",
+    "name": "Benjamin Harsha"
+   },
+   {
+    "authorId": "2349400072",
+    "name": "Samson Zhou"
+   }
+  ],
+  "matchScore": 179.7735
+ },
+ "Stronger key derivation via sequential memory-hard functions": {
+  "paperId": "7c74956d21f0466c9771bb583e2fdf854c2aedbf",
+  "externalIds": {
+   "CorpusId": 15333875
+  },
+  "url": "https://www.semanticscholar.org/paper/7c74956d21f0466c9771bb583e2fdf854c2aedbf",
+  "title": "STRONGER KEY DERIVATION VIA SEQUENTIAL MEMORY-HARD FUNCTIONS",
+  "venue": "",
+  "year": 2009,
+  "citationCount": 343,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Inproceedings{Percival2009STRONGERKD,\n author = {Colin Percival},\n title = {STRONGER KEY DERIVATION VIA SEQUENTIAL MEMORY-HARD FUNCTIONS},\n year = {2009}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "3160818",
+    "name": "Colin Percival"
+   }
+  ],
+  "matchScore": 271.92108
+ },
+ "A Future-Adaptable Password Scheme": {
+  "paperId": "8513409adf910b3990b0bafdea9763c9e3173b9a",
+  "externalIds": {
+   "CorpusId": 2403418
+  },
+  "url": "https://www.semanticscholar.org/paper/8513409adf910b3990b0bafdea9763c9e3173b9a",
+  "title": "The Advanced Computing Systems Association a Future-adaptable Password Scheme a Future-adaptable Password Scheme",
+  "venue": "",
+  "year": null,
+  "citationCount": 238,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Misc{None,\n author = {Niels Provos and David Mazi\u00e8res and David Mazi},\n title = {The Advanced Computing Systems Association a Future-adaptable Password Scheme a Future-adaptable Password Scheme}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2920229",
+    "name": "Niels Provos"
+   },
+   {
+    "authorId": "2506126",
+    "name": "David Mazi\u00e8res"
+   },
+   {
+    "authorId": "2230471612",
+    "name": "David Mazi"
+   }
+  ],
+  "matchScore": 154.58496
+ },
+ "Scrypt is Maximally Memory-Hard": {
+  "paperId": "c281aba4e336c236c2267ecc14df63b567ee6597",
+  "externalIds": {
+   "MAG": "3031509398",
+   "DBLP": "journals/iacr/AlwenCPRT16",
+   "DOI": "10.1007/978-3-319-56617-7_2",
+   "CorpusId": 574565
+  },
+  "url": "https://www.semanticscholar.org/paper/c281aba4e336c236c2267ecc14df63b567ee6597",
+  "title": "Scrypt Is Maximally Memory-Hard",
+  "venue": "International Conference on the Theory and Application of Cryptographic Techniques",
+  "year": 2017,
+  "citationCount": 82,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Alwen2017ScryptIM,\n author = {J. Alwen and Bin-Yi Chen and Krzysztof Pietrzak and Leonid Reyzin and S. Tessaro},\n booktitle = {International Conference on the Theory and Application of Cryptographic Techniques},\n pages = {33-62},\n title = {Scrypt Is Maximally Memory-Hard},\n year = {2017}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2793898",
+    "name": "J. Alwen"
+   },
+   {
+    "authorId": "2600766",
+    "name": "Bin-Yi Chen"
+   },
+   {
+    "authorId": "143644577",
+    "name": "Krzysztof Pietrzak"
+   },
+   {
+    "authorId": "1721462",
+    "name": "Leonid Reyzin"
+   },
+   {
+    "authorId": "2066559728",
+    "name": "S. Tessaro"
+   }
+  ],
+  "matchScore": 196.2131
+ },
+ "Efficiently Computing Data-Independent Memory-Hard Functions": {
+  "paperId": "1037c192ac58f12e9355dab54de164138824df62",
+  "externalIds": {
+   "MAG": "2484106744",
+   "DBLP": "journals/iacr/AlwenB16",
+   "DOI": "10.1007/978-3-662-53008-5_9",
+   "CorpusId": 11195448
+  },
+  "url": "https://www.semanticscholar.org/paper/1037c192ac58f12e9355dab54de164138824df62",
+  "title": "Efficiently Computing Data-Independent Memory-Hard Functions",
+  "venue": "Annual International Cryptology Conference",
+  "year": 2016,
+  "citationCount": 74,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Alwen2016EfficientlyCD,\n author = {J. Alwen and Jeremiah Blocki},\n booktitle = {Annual International Cryptology Conference},\n journal = {IACR Cryptol. ePrint Arch.},\n pages = {115},\n title = {Efficiently Computing Data-Independent Memory-Hard Functions},\n volume = {2016},\n year = {2016}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2793898",
+    "name": "J. Alwen"
+   },
+   {
+    "authorId": "35785880",
+    "name": "Jeremiah Blocki"
+   }
+  ],
+  "matchScore": 237.18651
+ },
+ "Data-Dependent Memory-Hard Functions: Sustained Space and Cumulative Complexity Trade-offs in the Parallel Random Oracle Model": {
+  "paperId": "8171fe640bd60b78b34ec0162288f60041a46524",
+  "externalIds": {
+   "ArXiv": "2508.06795",
+   "CorpusId": 280566938
+  },
+  "url": "https://www.semanticscholar.org/paper/8171fe640bd60b78b34ec0162288f60041a46524",
+  "title": "Data-Dependent Memory-Hard Functions: Sustained Space and Cumulative Complexity Trade-offs in the Parallel Random Oracle Model",
+  "venue": "",
+  "year": 2025,
+  "citationCount": 1,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Inproceedings{Blocki2025DataDependentMF,\n author = {J. Blocki and Blake Holman},\n title = {Data-Dependent Memory-Hard Functions: Sustained Space and Cumulative Complexity Trade-offs in the Parallel Random Oracle Model},\n year = {2025}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2291152741",
+    "name": "J. Blocki"
+   },
+   {
+    "authorId": "2122368606",
+    "name": "Blake Holman"
+   }
+  ],
+  "matchScore": 406.58347
+ },
+ "Optimized Quantum Circuit for Quantum Security Strength Analysis of Argon2": {
+  "paperId": "4d4e086943d7f98af959e9ac3806071f0949e4c4",
+  "externalIds": {
+   "DBLP": "journals/iacr/SongEKSLS23",
+   "DOI": "10.3390/electronics12214485",
+   "CorpusId": 260309096
+  },
+  "url": "https://www.semanticscholar.org/paper/4d4e086943d7f98af959e9ac3806071f0949e4c4",
+  "title": "Optimized Quantum Circuit for Quantum Security Strength Analysis of Argon2",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2023,
+  "citationCount": 3,
+  "openAccessPdf": {
+   "url": "https://www.mdpi.com/2079-9292/12/21/4485/pdf?version=1698811832",
+   "status": "GOLD",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Song2023OptimizedQC,\n author = {Gyeongju Song and Siwoo Eum and Hyeokdong Kwon and Minjoo Sim and Minwoo Lee and Hwajeong Seo},\n booktitle = {IACR Cryptology ePrint Archive},\n journal = {IACR Cryptol. ePrint Arch.},\n pages = {1150},\n title = {Optimized Quantum Circuit for Quantum Security Strength Analysis of Argon2},\n volume = {2023},\n year = {2023}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2088288272",
+    "name": "Gyeongju Song"
+   },
+   {
+    "authorId": "2029675020",
+    "name": "Siwoo Eum"
+   },
+   {
+    "authorId": "65896305",
+    "name": "Hyeokdong Kwon"
+   },
+   {
+    "authorId": "2014124246",
+    "name": "Minjoo Sim"
+   },
+   {
+    "authorId": "65756109",
+    "name": "Minwoo Lee"
+   },
+   {
+    "authorId": "1786159",
+    "name": "Hwajeong Seo"
+   }
+  ],
+  "matchScore": 258.42087
+ },
+ "Grover on Scrypt": {
+  "paperId": "260b83d52730025400bff1e05a010c2382787cd2",
+  "externalIds": {
+   "DOI": "10.3390/electronics13163167",
+   "CorpusId": 272177307
+  },
+  "url": "https://www.semanticscholar.org/paper/260b83d52730025400bff1e05a010c2382787cd2",
+  "title": "Grover on Scrypt",
+  "venue": "Electronics",
+  "year": 2024,
+  "citationCount": 1,
+  "openAccessPdf": {
+   "url": "https://doi.org/10.3390/electronics13163167",
+   "status": "GOLD",
+   "license": "CCBY"
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Song2024GroverOS,\n author = {Gyeongju Song and Hwajeong Seo},\n booktitle = {Electronics},\n journal = {Electronics},\n title = {Grover on Scrypt},\n year = {2024}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2088288272",
+    "name": "Gyeongju Song"
+   },
+   {
+    "authorId": "2242594677",
+    "name": "Hwajeong Seo"
+   }
+  ],
+  "matchScore": 109.2914
+ },
+ "On the Compressed-Oracle Technique, and Post-Quantum Security of Proofs of Sequential Work": {
+  "paperId": "2ef4fcd222a868bdf591f30deca53a62854e363d",
+  "externalIds": {
+   "ArXiv": "2010.11658",
+   "DBLP": "journals/corr/abs-2010-11658",
+   "MAG": "3093718381",
+   "DOI": "10.1007/978-3-030-77886-6_21",
+   "CorpusId": 225039813
+  },
+  "url": "https://www.semanticscholar.org/paper/2ef4fcd222a868bdf591f30deca53a62854e363d",
+  "title": "On the Compressed-Oracle Technique, and Post-Quantum Security of Proofs of Sequential Work",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2020,
+  "citationCount": 72,
+  "openAccessPdf": {
+   "url": "https://arxiv.org/pdf/2010.11658",
+   "status": "GREEN",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Chung2020OnTC,\n author = {Kai-Min Chung and S. Fehr and Yu-Hsuan Huang and Tai-Ning Liao},\n booktitle = {IACR Cryptology ePrint Archive},\n journal = {IACR Cryptol. ePrint Arch.},\n pages = {1305},\n title = {On the Compressed-Oracle Technique, and Post-Quantum Security of Proofs of Sequential Work},\n volume = {2020},\n year = {2020}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "40357578",
+    "name": "Kai-Min Chung"
+   },
+   {
+    "authorId": "2266310",
+    "name": "S. Fehr"
+   },
+   {
+    "authorId": "2134848668",
+    "name": "Yu-Hsuan Huang"
+   },
+   {
+    "authorId": "1422035406",
+    "name": "Tai-Ning Liao"
+   }
+  ],
+  "matchScore": 262.24332
+ },
+ "An optimal Key Enumeration Algorithm and its Application to Side-Channel Attacks": {
+  "paperId": "9d635cbf8a3333c5514ea5de6277e2e96aa55f74",
+  "externalIds": {
+   "MAG": "2949306765",
+   "DBLP": "journals/iacr/Veyrat-CharvillonGRS11",
+   "DOI": "10.1007/978-3-642-35999-6_25",
+   "CorpusId": 6894553
+  },
+  "url": "https://www.semanticscholar.org/paper/9d635cbf8a3333c5514ea5de6277e2e96aa55f74",
+  "title": "An optimal Key Enumeration Algorithm and its Application to Side-Channel Attacks",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2012,
+  "citationCount": 159,
+  "openAccessPdf": {
+   "url": "https://link.springer.com/content/pdf/10.1007/978-3-642-35999-6_25.pdf",
+   "status": "BRONZE",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Veyrat-Charvillon2012AnOK,\n author = {Nicolas Veyrat-Charvillon and B. G\u00e9rard and M. Renauld and F. Standaert},\n booktitle = {IACR Cryptology ePrint Archive},\n journal = {IACR Cryptol. ePrint Arch.},\n pages = {610},\n title = {An optimal Key Enumeration Algorithm and its Application to Side-Channel Attacks},\n volume = {2011},\n year = {2012}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1403801966",
+    "name": "Nicolas Veyrat-Charvillon"
+   },
+   {
+    "authorId": "143738038",
+    "name": "B. G\u00e9rard"
+   },
+   {
+    "authorId": "2725771",
+    "name": "M. Renauld"
+   },
+   {
+    "authorId": "1706533",
+    "name": "F. Standaert"
+   }
+  ],
+  "matchScore": 229.30276
+ },
+ "Simpler and More Efficient Rank Estimation for Side-Channel Security Assessment": {
+  "paperId": "f0feb83c0f24cc19b06e5961f31c8b2df03a8966",
+  "externalIds": {
+   "MAG": "3028848497",
+   "DBLP": "conf/fse/GlowaczGPSS15",
+   "DOI": "10.1007/978-3-662-48116-5_6",
+   "CorpusId": 14092655
+  },
+  "url": "https://www.semanticscholar.org/paper/f0feb83c0f24cc19b06e5961f31c8b2df03a8966",
+  "title": "Simpler and More Efficient Rank Estimation for Side-Channel Security Assessment",
+  "venue": "Fast Software Encryption Workshop",
+  "year": 2015,
+  "citationCount": 85,
+  "openAccessPdf": {
+   "url": "https://link.springer.com/content/pdf/10.1007/978-3-662-48116-5_6.pdf",
+   "status": "BRONZE",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Glowacz2015SimplerAM,\n author = {C. Glowacz and Vincent Grosso and R. Poussier and Joachim Sch\u00fcth and F. Standaert},\n booktitle = {Fast Software Encryption Workshop},\n pages = {117-129},\n title = {Simpler and More Efficient Rank Estimation for Side-Channel Security Assessment},\n year = {2015}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "2298029",
+    "name": "C. Glowacz"
+   },
+   {
+    "authorId": "3128807",
+    "name": "Vincent Grosso"
+   },
+   {
+    "authorId": "2759945",
+    "name": "R. Poussier"
+   },
+   {
+    "authorId": null,
+    "name": "Joachim Sch\u00fcth"
+   },
+   {
+    "authorId": "1706533",
+    "name": "F. Standaert"
+   }
+  ],
+  "matchScore": 272.6957
+ },
+ "Study of Deep Learning Techniques for Side-Channel Analysis and Introduction to ASCAD Database": {
+  "paperId": "416f27b7ed8764a5d609965ba9a08b67affdd1b8",
+  "externalIds": {
+   "DBLP": "journals/iacr/ProuffSBCD18",
+   "MAG": "2953355178",
+   "CorpusId": 41991837
+  },
+  "url": "https://www.semanticscholar.org/paper/416f27b7ed8764a5d609965ba9a08b67affdd1b8",
+  "title": "Study of Deep Learning Techniques for Side-Channel Analysis and Introduction to ASCAD Database",
+  "venue": "IACR Cryptology ePrint Archive",
+  "year": 2018,
+  "citationCount": 268,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Prouff2018StudyOD,\n author = {E. Prouff and R\u00e9mi Strullu and R. Benadjila and Eleonora Cagli and C\u00e9cile Dumas},\n booktitle = {IACR Cryptology ePrint Archive},\n journal = {IACR Cryptol. ePrint Arch.},\n pages = {53},\n title = {Study of Deep Learning Techniques for Side-Channel Analysis and Introduction to ASCAD Database},\n volume = {2018},\n year = {2018}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "1726631",
+    "name": "E. Prouff"
+   },
+   {
+    "authorId": "2122064",
+    "name": "R\u00e9mi Strullu"
+   },
+   {
+    "authorId": "2639956",
+    "name": "R. Benadjila"
+   },
+   {
+    "authorId": "2816125",
+    "name": "Eleonora Cagli"
+   },
+   {
+    "authorId": "1437968685",
+    "name": "C\u00e9cile Dumas"
+   }
+  ],
+  "matchScore": 244.2614
+ },
+ "Lest We Remember: Cold Boot Attacks on Encryption Keys": {
+  "paperId": "31da09f829f14cd2c335f53b1f548bf5995967c5",
+  "externalIds": {
+   "MAG": "2170961388",
+   "DBLP": "journals/cacm/HaldermanSHCPCFAF09",
+   "DOI": "10.1145/1506409.1506429",
+   "CorpusId": 7770695
+  },
+  "url": "https://www.semanticscholar.org/paper/31da09f829f14cd2c335f53b1f548bf5995967c5",
+  "title": "Lest we remember: cold-boot attacks on encryption keys",
+  "venue": "CACM",
+  "year": 2008,
+  "citationCount": 1518,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null
+  },
+  "citationStyles": {
+   "bibtex": "@Article{Halderman2008LestWR,\n author = {J. A. Halderman and S. Schoen and N. Heninger and W. Clarkson and William Paul and Joseph A. Calandrino and Ariel J. Feldman and J. Appelbaum and E. Felten},\n booktitle = {CACM},\n journal = {Commun. ACM},\n pages = {91-98},\n title = {Lest we remember: cold-boot attacks on encryption keys},\n volume = {52},\n year = {2008}\n}\n"
+  },
+  "authors": [
+   {
+    "authorId": "144883384",
+    "name": "J. A. Halderman"
+   },
+   {
+    "authorId": "27254854",
+    "name": "S. Schoen"
+   },
+   {
+    "authorId": "2842650",
+    "name": "N. Heninger"
+   },
+   {
+    "authorId": "39259472",
+    "name": "W. Clarkson"
+   },
+   {
+    "authorId": "71864524",
+    "name": "William Paul"
+   },
+   {
+    "authorId": "2808959",
+    "name": "Joseph A. Calandrino"
+   },
+   {
+    "authorId": "2247734528",
+    "name": "Ariel J. Feldman"
+   },
+   {
+    "authorId": "15686717",
+    "name": "J. Appelbaum"
+   },
+   {
+    "authorId": "1752733",
+    "name": "E. Felten"
+   }
+  ],
+  "matchScore": 270.84714
+ }
+}
