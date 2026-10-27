@@ -1,0 +1,10 @@
+table,plaintext,ciphertext,reported_keys,computed_keys,all_reported_valid,exact_group_match,actual_cluster_size
+9,E0F7,8816,C0E4 E534 A233,A233 C0E4 E534,True,True,3
+9,FF48,9334,C0E4,C0E4,True,True,1
+9,0B5D,A75A,C0E4 C2B2 C2BD,C0E4 C2B2 C2BD,True,True,3
+10,A0D5,9BC5,4C8C,4C8C,True,True,1
+10,60B3,7204,4C8C,4C8C,True,True,1
+10,E0F7,5F69,4C8C D7C8,4C8C D7C8,True,True,2
+11,A0D5,A72D,F5E2,F5E2,True,True,1
+11,0B5D,55E7,F5E2 EABF,EABF F5E2,True,True,2
+11,FF48,7492,F5E2,7E7C F5E2,True,False,2
