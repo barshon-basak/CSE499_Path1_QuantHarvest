@@ -1,0 +1,27 @@
+mini_aes 1 / 109
+mini_aes 26 / 109
+mini_aes 51 / 109
+mini_aes 76 / 109
+mini_aes 101 / 109
+saes 1 / 109
+saes 26 / 109
+saes 51 / 109
+saes 76 / 109
+saes 101 / 109
+Matplotlib is building the font cache; this may take a moment.
+{
+  "seed": 20261023,
+  "random_sampler": "random.Random(seed).sample(sorted allowed plaintexts,100)",
+  "baseline_seed": 20261024,
+  "baseline_rng": "NumPy PCG64",
+  "baseline_replicates": 2000,
+  "plaintext_count": 109,
+  "keys_per_plaintext": 65536,
+  "total_encryptions": 14286848,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.5.4",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "elapsed_seconds": 24.289712300000247,
+  "paper_source": "E:/10th sem/499A/Cryptanalysis.pdf",
+  "paper_sha256": "c9932c50290b10c4445b1e9e117822d07462aefa272743258948a69dea18543a"
+}

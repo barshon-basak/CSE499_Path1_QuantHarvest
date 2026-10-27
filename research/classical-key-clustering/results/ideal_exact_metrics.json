@@ -1,0 +1,8 @@
+{
+  "occupied_ciphertexts": 41426.83688427841,
+  "fraction_keys_in_clusters_ge2": 0.6321177521061785,
+  "colliding_key_pairs": 32767.5,
+  "mean_cluster_known_key": 1.9999847412109375,
+  "pair_sd": 181.01657384789215,
+  "empty_ciphertexts": 24109.163115721592
+}

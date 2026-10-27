@@ -1,0 +1,18 @@
+test_field_independent_polynomial_reduction (__main__.CipherTests.test_field_independent_polynomial_reduction) ... ok
+test_input_validation (__main__.CipherTests.test_input_validation) ... ok
+test_linear_layers_all_states (__main__.CipherTests.test_linear_layers_all_states) ... ok
+test_metrics_edge_cases_and_overflow (__main__.CipherTests.test_metrics_edge_cases_and_overflow) ... ok
+test_paper_claims_recorded_not_assumed (__main__.CipherTests.test_paper_claims_recorded_not_assumed) ... ok
+test_permutation_for_fixed_keys (__main__.CipherTests.test_permutation_for_fixed_keys) ... ok
+test_phan_intermediate_states (__main__.CipherTests.test_phan_intermediate_states) ... ok
+test_published_vectors (__main__.CipherTests.test_published_vectors) ... ok
+test_roundtrip_random (__main__.CipherTests.test_roundtrip_random) ... ok
+test_sampling (__main__.CipherTests.test_sampling) ... ok
+test_saved_artifacts_if_present (__main__.CipherTests.test_saved_artifacts_if_present) ... ok
+test_supplied_collision (__main__.CipherTests.test_supplied_collision) ... ok
+test_vector_engine_all_keys_against_scalar (__main__.CipherTests.test_vector_engine_all_keys_against_scalar) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 14.659s
+
+OK
